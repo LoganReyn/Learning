@@ -1,4 +1,4 @@
-# Machine Learning Notebooks 
-## Completed at Ferris State
+# Collection of Machine Learning Notebooks 
+### Completed at Ferris State
 
 
